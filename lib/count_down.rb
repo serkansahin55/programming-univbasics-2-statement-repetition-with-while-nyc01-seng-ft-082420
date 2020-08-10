@@ -4,4 +4,5 @@ while count != magic_exit_number do
   puts "#{count}"
   count -= 1
 end
+puts "Happy New Year!"
   
